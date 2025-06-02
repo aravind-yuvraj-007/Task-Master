@@ -51,9 +51,7 @@ TaskMaster is a Next.js application designed for streamlined project and task ma
 
 ## Live Deployed Link
 
-[Your Live App Link Will Go Here - e.g., https://your-taskmaster-app.web.app]
-
-*(Replace the placeholder above with your actual deployed URL once available.)*
+[ Live App Link  - e.g., https://your-taskmaster-app.web.app]
 
 ## Overview of AI Features Implemented
 
