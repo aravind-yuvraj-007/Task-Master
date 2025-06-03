@@ -1,4 +1,4 @@
-# TaskMaster
+# TaskMaster (Jira-like App)
 
 TaskMaster is a Next.js application designed for streamlined project and task management, enhanced with AI-powered features to boost productivity.
 
